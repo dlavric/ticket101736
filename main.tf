@@ -3,7 +3,7 @@ terraform {
     hostname = "app.terraform.io"
     organization = "daniela-org"
     workspaces {
-      name = "gcp-ticket101736"
+      name = "ticket101736"
     }
   }
 
